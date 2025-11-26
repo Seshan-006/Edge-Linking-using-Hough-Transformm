@@ -25,8 +25,8 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
  NAME : SESHAN J 
  Reg.No: 212224220092
 ```
-# NAME : AANKARSH J
-# Reg.No: 212223233001
+# NAME :SESHAN J
+# Reg.No: 212224220092
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
